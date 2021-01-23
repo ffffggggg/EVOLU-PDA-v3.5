@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 3,
+    "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/ffffggggg/EVOLU-PDA-v3.5/main/EVOLU-PDA_1.0.1.ino.esp32.bin"
